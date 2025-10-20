@@ -52,6 +52,12 @@ A comprehensive calculator application with multiple functionalities including b
    - **Forex**: Currency exchange calculations
    - **Commodities**: Precious metals and oil price tracking
 
+## Screenshots
+  
+   ![alt text](image.png)
+
+   ![alt text](image-1.png)
+   
 ## Technical Details
 
 ### APIs Used
