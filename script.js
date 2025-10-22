@@ -311,7 +311,7 @@ async function testAndSetupAPI() {
     }
 }
 // Gemini API Configuration
-const GEMINI_API_KEY = 'AIzaSyCnxsh2177we8YT2qnM3pRTP1S5sXy4JAk'; // Replace with your actual Gemini API key
+const GEMINI_API_KEY = 'enter_your_gemini_api_key'; // Replace with your actual Gemini API key
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${GEMINI_API_KEY}`;
 
 // Commodity data structure
